@@ -1,0 +1,12 @@
+{
+	"scripts": {
+		"dev": "node"
+	},
+	"type": "module",
+	"dependencies": {
+		"@babel/core": "^7.24.4",
+		"@babel/standalone": "^7.24.4",
+		"eslint": "^9.1.0",
+		"jest": "^29.7.0"
+	}
+}
